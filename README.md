@@ -1,2 +1,2 @@
 # Web-Company
-Menjelaskan tentang Daisy Flourist
+Website CRUD mengenai florist
